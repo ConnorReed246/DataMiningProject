@@ -6,3 +6,4 @@ Pyarrow
 plotly
 Jinja2
 nbformat >= 4.2.0 
+sktime
