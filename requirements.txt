@@ -11,5 +11,6 @@ ruptures
 xgboost
 catboost
 lightgbm
-auto-sklearn
-TPOT
+# auto-sklearn
+# TPOT
+tsfresh
